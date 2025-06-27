@@ -16,7 +16,7 @@
 ## 🧠 Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODExMmZxZjkxa3hnajhzbTZnbW9lb3EyNzZ2aWI5ajV6YXg0a29sYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NkW9e1pXYTBzh5kN9v/giphy.gif" alt="Chatbot Demo" width="80%" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODExMmZxZjkxa3hnajhzbTZnbW9lb3EyNzZ2aWI5ajV6YXg0a29sYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NkW9e1pXYTBzh5kN9v/giphy.gif](https://www.youtube.com/watch?v=LYHzUoBqH5M&ab_channel=Web%40wizards)" alt="Chatbot Demo" width="80%" />
 </p>
 
 > 🎯 Watch the [Demo Here]([https://abhijitmukherjee36.github.io/Online_Ticket_Booking_Chatbot_For_Museum/museum.html](https://www.youtube.com/watch?v=LYHzUoBqH5M&ab_channel=Web%40wizards))
