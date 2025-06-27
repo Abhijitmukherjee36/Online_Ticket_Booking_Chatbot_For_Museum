@@ -13,13 +13,17 @@
 
 ---
 
-## 🧠 Preview
+## 📽️ Demo Video
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODExMmZxZjkxa3hnajhzbTZnbW9lb3EyNzZ2aWI5ajV6YXg0a29sYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NkW9e1pXYTBzh5kN9v/giphy.gif](https://www.youtube.com/watch?v=LYHzUoBqH5M&ab_channel=Web%40wizards)" alt="Chatbot Demo" width="80%" />
+  <a href="https://www.youtube.com/watch?v=LYHzUoBqH5M&ab_channel=Web%40wizards" target="_blank">
+    <img src="https://img.youtube.com/vi/LYHzUoBqH5M/0.jpg" alt="Watch the demo" width="70%" />
+  </a>
 </p>
 
-> 🎯 Watch the [Demo Here]([https://abhijitmukherjee36.github.io/Online_Ticket_Booking_Chatbot_For_Museum/museum.html](https://www.youtube.com/watch?v=LYHzUoBqH5M&ab_channel=Web%40wizards))
+<p align="center">
+  ▶️ <b><a href="https://www.youtube.com/watch?v=LYHzUoBqH5M&ab_channel=Web%40wizards">Watch Demo on YouTube</a></b>
+</p>
 
 ---
 
